@@ -1,8 +1,0 @@
-
-M Muskrat (change on line 1)
-N Newt
-O Onager (change on line 3)
-O Ocelot
-P Panda
-T Tapir (change on line 5)
-T Tiger
